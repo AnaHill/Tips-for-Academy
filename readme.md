@@ -1,7 +1,8 @@
 Here, I will tell my trips&trick for the academy. 
+
 TODO:
-- use version control
-- comsol how to empty simulation file without opening it
+- [ ] use version control
+- [ ] comsol how to empty simulation file without opening it
 - ...
 
 
